@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				success: {
+					DEFAULT: 'hsl(var(--success))',
+					foreground: 'hsl(var(--success-foreground))'
+				},
+				bull: {
+					DEFAULT: 'hsl(var(--bull))',
+					foreground: 'hsl(var(--bull-foreground))'
+				},
+				bear: {
+					DEFAULT: 'hsl(var(--bear))',
+					foreground: 'hsl(var(--bear-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
